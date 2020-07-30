@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/myapp/static/css/main.7b3c4e9d.chunk.css",
+    "main.js": "/myapp/static/js/main.c38e35a8.chunk.js",
+    "main.js.map": "/myapp/static/js/main.c38e35a8.chunk.js.map",
+    "runtime-main.js": "/myapp/static/js/runtime-main.22022894.js",
+    "runtime-main.js.map": "/myapp/static/js/runtime-main.22022894.js.map",
+    "static/css/2.83ace7dd.chunk.css": "/myapp/static/css/2.83ace7dd.chunk.css",
+    "static/js/2.38e33e9e.chunk.js": "/myapp/static/js/2.38e33e9e.chunk.js",
+    "static/js/2.38e33e9e.chunk.js.map": "/myapp/static/js/2.38e33e9e.chunk.js.map",
+    "index.html": "/myapp/index.html",
+    "precache-manifest.234fdc0f09ef7e2c9f25e8c7374c6a67.js": "/myapp/precache-manifest.234fdc0f09ef7e2c9f25e8c7374c6a67.js",
+    "service-worker.js": "/myapp/service-worker.js",
+    "static/css/2.83ace7dd.chunk.css.map": "/myapp/static/css/2.83ace7dd.chunk.css.map",
+    "static/css/main.7b3c4e9d.chunk.css.map": "/myapp/static/css/main.7b3c4e9d.chunk.css.map",
+    "static/media/ARI.ttf": "/myapp/static/media/ARI.918b7612.ttf",
+    "static/media/General.css": "/myapp/static/media/Background.0b5287d0.jpg",
+    "static/media/BookAntiquaBold.ttf": "/myapp/static/media/BookAntiquaBold.714eac04.ttf",
+    "static/media/LogoGrande.jpg": "/myapp/static/media/LogoGrande.eaae9793.jpg",
+    "static/media/book-antiqua.ttf": "/myapp/static/media/book-antiqua.324a6941.ttf",
+    "static/media/cropped-LOGO-NUEVO-1.png": "/myapp/static/media/cropped-LOGO-NUEVO-1.a192c314.png",
+    "static/media/cropped-LOGO-NUEVO-2.png": "/myapp/static/media/cropped-LOGO-NUEVO-2.a192c314.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22022894.js",
+    "static/css/2.83ace7dd.chunk.css",
+    "static/js/2.38e33e9e.chunk.js",
+    "static/css/main.7b3c4e9d.chunk.css",
+    "static/js/main.c38e35a8.chunk.js"
+  ]
+}
